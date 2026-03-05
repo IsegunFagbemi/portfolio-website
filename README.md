@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Website
+
+Personal portfolio built with **Next.js, TypeScript, and Tailwind CSS**.
+
+## About
+This website showcases my software engineering projects, including systems engineering, cybersecurity tools, and full-stack applications.
+
+## Featured Projects
+- Vulnerability Scanner (Python)
+- Flashcard AI Web App (React, Next.js, Firebase)
+- Distributed Task Scheduler (Python, Redis, Docker)
+- Real-Time Collaborative Code Editor (React, WebSockets)
+
+## Tech Stack
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:3000
+(https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
