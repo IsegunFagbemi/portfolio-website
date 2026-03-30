@@ -1,6 +1,12 @@
+import Navbar from "@/components/Navbar";
+import Projects from "@/sections/Projects";
+
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
+      <Navbar />
+
       <section className="mx-auto flex min-h-screen max-w-7xl items-center px-6 py-20">
         <div>
           <p className="mb-4 text-sm uppercase tracking-[0.3em] text-zinc-400">
