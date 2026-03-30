@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Projects from "@/sections/Projects";
 import About from "@/sections/About";
+import Contacts from "@/sections/Contact";
 
 
 export default function Home() {
