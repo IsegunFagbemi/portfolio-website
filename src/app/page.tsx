@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Projects from "@/sections/Projects";
+import About from "@/sections/About";
 
 
 export default function Home() {
@@ -44,6 +45,7 @@ export default function Home() {
       </section>
 
       <Projects />
+      <About />
     </main>
   );
 }
