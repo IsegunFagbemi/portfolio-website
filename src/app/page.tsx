@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import Projects from "@/sections/Projects";
 import About from "@/sections/About";
-import Contacts from "@/sections/Contact";
+import Contact from "@/sections/Contact";
 
 
 export default function Home() {
@@ -47,6 +47,7 @@ export default function Home() {
 
       <Projects />
       <About />
+      <Contact />
     </main>
   );
 }
