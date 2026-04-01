@@ -9,18 +9,18 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <Navbar />
 
-      <section className="mx-auto flex min-h-screen max-w-7xl items-center px-6 py-20">
+      <section className="mx-auto flex min-h-screen max-w-7xl items-center px-6 py-24">
         <div>
           <p className="mb-4 text-sm uppercase tracking-[0.3em] text-zinc-400">
             Software Engineering Portfolio
           </p>
 
-          <h1 className="max-w-4xl text-4xl font-semibold leading-tight sm:text-6xl">
+          <h1 className="max-w-5xl text-5xl font-semibold leading-tight sm:text-7xl">
             Computer Science student building scalable backend systems,
             developer tools, and secure applications.
           </h1>
 
-          <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-400">
+          <p className="mt-6 max-w-3xl text-lg leading-8 text-zinc-400">
             Focused on distributed systems, cybersecurity, and real-time
             software engineering.
           </p>
